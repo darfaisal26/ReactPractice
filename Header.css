@@ -1,0 +1,30 @@
+* {margin: 0;padding: 0;}
+
+#nav-ul {
+   display: flex;
+   background-color: black;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   padding-left: 8px;
+   position: sticky;
+}
+
+#nav-ul-li {
+   list-style: none;
+   display: flex;
+   padding: 10px;
+   color:white
+}
+
+.navl {
+   text-decoration: none;
+   list-style-type: none;
+   margin: 10px 30px 15px 30px;
+   font-size: 25px;
+   font-style: oblique;
+   color: white
+}
+
+.active {
+   color: rgb(39, 18, 123);
+}

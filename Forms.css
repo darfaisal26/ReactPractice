@@ -1,0 +1,83 @@
+.form{
+   height: 520px;
+   width:370px;
+   margin:auto;
+   border-radius: 30px;
+  background-color: rgba(204, 159, 159, 0.59);
+}
+.field-inputs{
+    display: block;
+    background-color: rgb(70, 77, 120);
+    color:black;
+    border-radius: 20px;
+    height: 30px;
+    width:180px;
+    padding: 0px 40px 6px 100px;    
+    font-size: 14px;
+    font-style: italic;
+    margin-top:15px;  
+    margin-bottom: 5px;   
+ }
+
+.labels{
+    color:black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#btn{
+    padding: 10px 50px 10px 50px;
+    margin:15px 30px 0px 30px;
+    color: rgba(206, 193, 222, 0.909);
+    background-color: rgb(13, 114, 106);
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+.about-form{
+    height: 520px;
+    width:365px;
+    margin:10px auto 10px auto;
+    border-radius:20px;
+    background-color: rgba(208, 206, 221, 0.74);
+}
+.contact-form{
+    height: 455px;
+    width:365px;
+    margin:10px auto 10px auto;
+    border-radius:20px;
+    background-color: rgb(118, 162, 170);
+}
+
+.input-types{
+   margin: 25px ;
+  
+}
+.para{
+    color:red;
+}
+    
+ .genders{
+    width:200px;
+    border:2px solid yellowgreen;
+    border-radius: 20px;
+    margin: 15px 0px 20px 25px;
+    padding: 10px;
+    
+ }
+ .checkbox{
+    margin-left:20px;
+    font-size:20px;
+ }
+
+
+
+
+
+
+
+
+
+
