@@ -2,7 +2,7 @@
 
 #nav-ul {
    display: flex;
-   background-color: black;
+   background-color: rgb(21, 20, 20);
    padding-top: 6px;
    padding-bottom: 6px;
    padding-left: 8px;
@@ -13,7 +13,7 @@
    list-style: none;
    display: flex;
    padding: 10px;
-   color:white
+   color:rgb(20, 26, 139)
 }
 
 .navl {
@@ -26,5 +26,5 @@
 }
 
 .active {
-   color: rgb(39, 18, 123);
+   color: rgb(240, 65, 17);
 }
